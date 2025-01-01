@@ -1,7 +1,7 @@
 package MemberRepository.member.impl;
 
-import io.member.Member;
-import io.member.MemberRepository;
+import MemberRepository.member.Member;
+import MemberRepository.member.MemberRepository;
 
 import java.io.*;
 import java.util.ArrayList;

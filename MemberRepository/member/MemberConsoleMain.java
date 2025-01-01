@@ -1,7 +1,8 @@
 package MemberRepository.member;
 
-import io.member.impl.DataMemberRepository;
-import io.member.impl.ObjectMemberRepository;
+import MemberRepository.member.Member;
+import MemberRepository.member.MemberRepository;
+import MemberRepository.member.impl.ObjectMemberRepository;
 
 import java.io.IOException;
 import java.util.ArrayList;
